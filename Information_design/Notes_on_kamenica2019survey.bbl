@@ -1,0 +1,200 @@
+\begin{thebibliography}{}
+
+\bibitem[Alonso and C{\^a}mara, 2016]{alonso2016bayesian}
+Alonso, R. and C{\^a}mara, O. (2016).
+\newblock Bayesian persuasion with heterogeneous priors.
+\newblock {\em Journal of Economic Theory}, 165:672--706.
+
+\bibitem[Au and Li, 2018]{au2018bayesian}
+Au, P.~H. and Li, K.~K. (2018).
+\newblock Bayesian persuasion and reciprocity: theory and experiment.
+\newblock {\em Available at SSRN 3191203}.
+
+\bibitem[Aumann and Maschler, 1966]{aumann1966game}
+Aumann, R.~J. and Maschler, M. (1966).
+\newblock Game theoretic aspects of gradual disarmament.
+\newblock {\em Report of the US Arms Control and Disarmament Agency}, 80:1--55.
+
+\bibitem[Bergemann and Bonatti, 2019]{bergemann2019markets}
+Bergemann, D. and Bonatti, A. (2019).
+\newblock Markets for information: An introduction.
+\newblock {\em Annual Review of Economics}, 11:85--107.
+
+\bibitem[Bergemann et~al., 2018]{bergemann2018design}
+Bergemann, D., Bonatti, A., and Smolin, A. (2018).
+\newblock The design and price of information.
+\newblock {\em American economic review}, 108(1):1--48.
+
+\bibitem[Bergemann et~al., 2015]{bergemann2015limits}
+Bergemann, D., Brooks, B., and Morris, S. (2015).
+\newblock The limits of price discrimination.
+\newblock {\em American Economic Review}, 105(3):921--57.
+
+\bibitem[Bergemann and Morris, 2013]{bergemann2013robust}
+Bergemann, D. and Morris, S. (2013).
+\newblock Robust predictions in games with incomplete information.
+\newblock {\em Econometrica}, 81(4):1251--1308.
+
+\bibitem[Best and Quigley, 2020]{best2020persuasion}
+Best, J. and Quigley, D. (2020).
+\newblock Persuasion for the long run.
+\newblock {\em Available at SSRN 2908115}.
+
+\bibitem[Brocas and Carrillo, 2007]{brocas2007influence}
+Brocas, I. and Carrillo, J.~D. (2007).
+\newblock Influence through ignorance.
+\newblock {\em The RAND Journal of Economics}, 38(4):931--947.
+
+\bibitem[Chen and Hu, 2020]{chen2020learning}
+Chen, Y.-C. and Hu, G. (2020).
+\newblock Learning by matching.
+\newblock {\em Theoretical Economics}, 15(1):29--56.
+
+\bibitem[Crawford and Sobel, 1982]{crawford1982strategic}
+Crawford, V.~P. and Sobel, J. (1982).
+\newblock Strategic information transmission.
+\newblock {\em Econometrica: Journal of the Econometric Society}, pages
+  1431--1451.
+
+\bibitem[Dughmi, 2017]{dughmi2017algorithmic}
+Dughmi, S. (2017).
+\newblock Algorithmic information structure design: a survey.
+\newblock {\em ACM SIGecom Exchanges}, 15(2):2--24.
+
+\bibitem[Ely, 2017]{ely2017beeps}
+Ely, J.~C. (2017).
+\newblock Beeps.
+\newblock {\em American Economic Review}, 107(1):31--53.
+
+\bibitem[Frankel, 2014]{frankel2014aligned}
+Frankel, A. (2014).
+\newblock Aligned delegation.
+\newblock {\em American Economic Review}, 104(1):66--83.
+
+\bibitem[Gentzkow and Kamenica, 2017]{gentzkow2017disclosure}
+Gentzkow, M. and Kamenica, E. (2017).
+\newblock Disclosure of endogenous information.
+\newblock {\em Economic Theory Bulletin}, 5(1):47--56.
+
+\bibitem[Goldstein and Leitner, 2018]{goldstein2018stress}
+Goldstein, I. and Leitner, Y. (2018).
+\newblock Stress tests and information disclosure.
+\newblock {\em Journal of Economic Theory}, 177:34--69.
+
+\bibitem[Grossman, 1981]{grossman1981informational}
+Grossman, S.~J. (1981).
+\newblock The informational role of warranties and private disclosure about
+  product quality.
+\newblock {\em The Journal of Law and Economics}, 24(3):461--483.
+
+\bibitem[Guo and Shmaya, 2019]{guo2019interval}
+Guo, Y. and Shmaya, E. (2019).
+\newblock The interval structure of optimal disclosure.
+\newblock {\em Econometrica}, 87(2):653--675.
+
+\bibitem[Kamenica, 2012]{kamenica2012behavioral}
+Kamenica, E. (2012).
+\newblock Behavioral economics and psychology of incentives.
+\newblock {\em Annu. Rev. Econ.}, 4(1):427--452.
+
+\bibitem[Kamenica, 2019]{kamenica2019bayesian}
+Kamenica, E. (2019).
+\newblock Bayesian persuasion and information design.
+\newblock {\em Annual Review of Economics}, 11:249--272.
+
+\bibitem[Kamenica and Gentzkow, 2011]{kamenica2011bayesian}
+Kamenica, E. and Gentzkow, M. (2011).
+\newblock Bayesian persuasion.
+\newblock {\em American Economic Review}, 101(6):2590--2615.
+
+\bibitem[Kastl et~al., 2018]{kastl2018selling}
+Kastl, J., Pagnozzi, M., and Piccolo, S. (2018).
+\newblock Selling information to competitive firms.
+\newblock {\em The RAND Journal of Economics}, 49(1):254--282.
+
+\bibitem[Koessler et~al., 2021]{koessler2021interactive}
+Koessler, F., Laclau, M., and Tomala, T. (2021).
+\newblock Interactive information design.
+\newblock {\em Mathematics of Operations Research}.
+
+\bibitem[Kolotilin, 2018]{kolotilin2018optimal}
+Kolotilin, A. (2018).
+\newblock Optimal information disclosure: A linear programming approach.
+\newblock {\em Theoretical Economics}, 13(2):607--635.
+
+\bibitem[Kolotilin et~al., 2017]{kolotilin2017persuasion}
+Kolotilin, A., Mylovanov, T., Zapechelnyuk, A., and Li, M. (2017).
+\newblock Persuasion of a privately informed receiver.
+\newblock {\em Econometrica}, 85(6):1949--1964.
+
+\bibitem[Lazear, 2006]{lazear2006speeding}
+Lazear, E.~P. (2006).
+\newblock Speeding, terrorism, and teaching to the test.
+\newblock {\em The Quarterly Journal of Economics}, 121(3):1029--1061.
+
+\bibitem[Lewis and Sappington, 1994]{lewis1994supplying}
+Lewis, T.~R. and Sappington, D.~E. (1994).
+\newblock Supplying information to facilitate price discrimination.
+\newblock {\em International Economic Review}, pages 309--327.
+
+\bibitem[Li, 2017]{li2017model}
+Li, C. (2017).
+\newblock A model of bayesian persuasion with transfers.
+\newblock {\em Economics Letters}, 161:93--95.
+
+\bibitem[Li and Shi, 2017]{li2017discriminatory}
+Li, H. and Shi, X. (2017).
+\newblock Discriminatory information disclosure.
+\newblock {\em American Economic Review}, 107(11):3363--85.
+
+\bibitem[Matyskova, 2018]{matyskova2018bayesian}
+Matyskova, L. (2018).
+\newblock Bayesian persuasion with costly information acquisition.
+\newblock {\em CERGE-EI Working Paper Series}, (614).
+
+\bibitem[Milgrom, 1981]{milgrom1981good}
+Milgrom, P.~R. (1981).
+\newblock Good news and bad news: Representation theorems and applications.
+\newblock {\em The Bell Journal of Economics}, pages 380--391.
+
+\bibitem[Min, 2020]{min2020bayesian}
+Min, D. (2020).
+\newblock Bayesian persuasion under partial commitment.
+\newblock {\em Work. Pap., NYU}.
+
+\bibitem[Ostrovsky and Schwarz, 2010]{ostrovsky2010information}
+Ostrovsky, M. and Schwarz, M. (2010).
+\newblock Information disclosure and unraveling in matching markets.
+\newblock {\em American Economic Journal: Microeconomics}, 2(2):34--63.
+
+\bibitem[Rayo and Segal, 2010]{rayo2010optimal}
+Rayo, L. and Segal, I. (2010).
+\newblock Optimal information disclosure.
+\newblock {\em Journal of political Economy}, 118(5):949--987.
+
+\bibitem[Romanyuk and Smolin, 2019]{romanyuk2019cream}
+Romanyuk, G. and Smolin, A. (2019).
+\newblock Cream skimming and information design in matching markets.
+\newblock {\em American Economic Journal: Microeconomics}, 11(2):250--76.
+
+\bibitem[Spence, 1978]{spence1978job}
+Spence, M. (1978).
+\newblock Job market signaling.
+\newblock In {\em Uncertainty in economics}, pages 281--306. Elsevier.
+
+\bibitem[Taneva, 2019]{taneva2019information}
+Taneva, I. (2019).
+\newblock Information design.
+\newblock {\em American Economic Journal: Microeconomics}, 11(4):151--85.
+
+\bibitem[Thaler and Sunstein, 2008]{thalernudge}
+Thaler, R.~H. and Sunstein, C.~R. (2008).
+\newblock {\em Nudge: Improving decisions about health, wealth, and happiness}.
+\newblock Yale University Press.
+
+\bibitem[Tsakas et~al., 2021]{tsakas2021resisting}
+Tsakas, E., Tsakas, N., and Xefteris, D. (2021).
+\newblock Resisting persuasion.
+\newblock {\em Economic Theory}, pages 1--20.
+
+\end{thebibliography}
