@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex Notes_on_kamenica2019survey"] 1630672165 "Notes_on_kamenica2019survey.aux" "Notes_on_kamenica2019survey.bbl" "Notes_on_kamenica2019survey" 1630807112
+["bibtex Notes_on_kamenica2019survey"] 1631449536 "Notes_on_kamenica2019survey.aux" "Notes_on_kamenica2019survey.bbl" "Notes_on_kamenica2019survey" 1631449537
   "Notes_on_kamenica2019survey.aux" 1630672238 5700 e0fcd39c7242c56af187611ebf3845f4 "pdflatex"
-  "aguiar.bib" 1630672157 11356 3ed5429572e84c801160221af7342b76 ""
+  "aguiar.bib" 1631449530 11783 eb487a220cae0b2f13a89ee5f5ab7454 ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/base/apalike.bst" 1627106186 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   (generated)
-  "Notes_on_kamenica2019survey.blg"
   "Notes_on_kamenica2019survey.bbl"
-["pdflatex"] 1630672235 "d:/Michael/desktop/Notes/Information_design/Notes_on_kamenica2019survey.tex" "Notes_on_kamenica2019survey.pdf" "Notes_on_kamenica2019survey" 1630807112
+  "Notes_on_kamenica2019survey.blg"
+["pdflatex"] 1630672235 "d:/Michael/desktop/Notes/Information_design/Notes_on_kamenica2019survey.tex" "Notes_on_kamenica2019survey.pdf" "Notes_on_kamenica2019survey" 1631449537
   "Notes_on_kamenica2019survey.aux" 1630672238 5700 e0fcd39c7242c56af187611ebf3845f4 "pdflatex"
-  "Notes_on_kamenica2019survey.bbl" 1630672165 7639 5e1a5608e43a107228ad7a9ea3d6af66 "bibtex Notes_on_kamenica2019survey"
+  "Notes_on_kamenica2019survey.bbl" 1631449537 7639 5e1a5608e43a107228ad7a9ea3d6af66 "bibtex Notes_on_kamenica2019survey"
   "Notes_on_kamenica2019survey.out" 1630672238 1530 d51a0dc725e0a2989b743cb982f165d6 "pdflatex"
   "Notes_on_kamenica2019survey.tex" 1630807110 18608 1a89297da6c502b55a855dce86b3a7e1 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1627107267 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
