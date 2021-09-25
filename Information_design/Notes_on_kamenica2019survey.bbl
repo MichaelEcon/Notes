@@ -61,6 +61,11 @@ Dughmi, S. (2017).
 \newblock Algorithmic information structure design: a survey.
 \newblock {\em ACM SIGecom Exchanges}, 15(2):2--24.
 
+\bibitem[Eilat and Neeman, 2021]{eilat2021communication}
+Eilat, R. and Neeman, Z. (2021).
+\newblock Communication with endogenous deception costs.
+\newblock Technical report, working paper.
+
 \bibitem[Ely, 2017]{ely2017beeps}
 Ely, J.~C. (2017).
 \newblock Beeps.
@@ -70,6 +75,10 @@ Ely, J.~C. (2017).
 Frankel, A. (2014).
 \newblock Aligned delegation.
 \newblock {\em American Economic Review}, 104(1):66--83.
+
+\bibitem[Fr{\'e}chette et~al., 2019]{frechette2019rules}
+Fr{\'e}chette, G.~R., Lizzeri, A., and Perego, J. (2019).
+\newblock Rules and commitment in communication.
 
 \bibitem[Gentzkow and Kamenica, 2017]{gentzkow2017disclosure}
 Gentzkow, M. and Kamenica, E. (2017).
@@ -146,6 +155,11 @@ Li, C. (2017).
 Li, H. and Shi, X. (2017).
 \newblock Discriminatory information disclosure.
 \newblock {\em American Economic Review}, 107(11):3363--85.
+
+\bibitem[Lipnowski et~al., 2019]{lipnowski2019persuasion}
+Lipnowski, E., Ravid, D., and Shishkin, D. (2019).
+\newblock Persuasion via weak institutions.
+\newblock {\em Available at SSRN 3168103}.
 
 \bibitem[Matyskova, 2018]{matyskova2018bayesian}
 Matyskova, L. (2018).

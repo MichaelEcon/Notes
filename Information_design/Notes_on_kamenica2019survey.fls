@@ -1,8 +1,8 @@
-PWD d:/Michael/desktop/Notes/Information_design
+PWD d:/study/OneDrive/◊¿√Ê/Notes/Information_design
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Michael/desktop/Notes/Information_design/Notes_on_kamenica2019survey.tex
+INPUT d:/study/OneDrive/Ê°åÈù¢/Notes/Information_design/Notes_on_kamenica2019survey.tex
 OUTPUT Notes_on_kamenica2019survey.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls

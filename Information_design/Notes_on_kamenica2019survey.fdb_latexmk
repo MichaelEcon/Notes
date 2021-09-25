@@ -1,16 +1,15 @@
 # Fdb version 3
-["bibtex Notes_on_kamenica2019survey"] 1631449536 "Notes_on_kamenica2019survey.aux" "Notes_on_kamenica2019survey.bbl" "Notes_on_kamenica2019survey" 1631449537
-  "Notes_on_kamenica2019survey.aux" 1630672238 5700 e0fcd39c7242c56af187611ebf3845f4 "pdflatex"
-  "aguiar.bib" 1631449530 11783 eb487a220cae0b2f13a89ee5f5ab7454 ""
+["bibtex Notes_on_kamenica2019survey"] 1632052178 "Notes_on_kamenica2019survey.aux" "Notes_on_kamenica2019survey.bbl" "Notes_on_kamenica2019survey" 1632539229
+  "Notes_on_kamenica2019survey.aux" 1632052183 6001 eeb94edd7a5fe771871485fe2e6def4c "pdflatex"
+  "aguiar.bib" 1632052152 11965 09ed94c671aaa14cd32cc418a1207ba2 ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/base/apalike.bst" 1627106186 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   (generated)
   "Notes_on_kamenica2019survey.bbl"
   "Notes_on_kamenica2019survey.blg"
-["pdflatex"] 1630672235 "d:/Michael/desktop/Notes/Information_design/Notes_on_kamenica2019survey.tex" "Notes_on_kamenica2019survey.pdf" "Notes_on_kamenica2019survey" 1631449537
-  "Notes_on_kamenica2019survey.aux" 1630672238 5700 e0fcd39c7242c56af187611ebf3845f4 "pdflatex"
-  "Notes_on_kamenica2019survey.bbl" 1631449537 7639 5e1a5608e43a107228ad7a9ea3d6af66 "bibtex Notes_on_kamenica2019survey"
-  "Notes_on_kamenica2019survey.out" 1630672238 1530 d51a0dc725e0a2989b743cb982f165d6 "pdflatex"
-  "Notes_on_kamenica2019survey.tex" 1630807110 18608 1a89297da6c502b55a855dce86b3a7e1 ""
+["pdflatex"] 1632052179 "d:/study/OneDrive/×ÀÃæ/Notes/Information_design/Notes_on_kamenica2019survey.tex" "Notes_on_kamenica2019survey.pdf" "Notes_on_kamenica2019survey" 1632539229
+  "Notes_on_kamenica2019survey.aux" 1632052183 6001 eeb94edd7a5fe771871485fe2e6def4c "pdflatex"
+  "Notes_on_kamenica2019survey.bbl" 1632052179 8192 48af940016bcd48cd980e2da95769fb3 "bibtex Notes_on_kamenica2019survey"
+  "Notes_on_kamenica2019survey.out" 1632052183 1530 d51a0dc725e0a2989b743cb982f165d6 "pdflatex"
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1627107267 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc" 1627108628 2639 b7bbeb66c016cde6fdcad9263fe54a4a ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1627107728 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -230,9 +229,9 @@
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1627113421 2801566 d0ebd759b4e03b496915dbec86181ad7 ""
   "c:/texlive/2021/texmf.cnf" 1627112800 713 e69b156964470283e0530f5060668171 ""
   "concavification.png" 1630221985 26166 aa2be401e7d679dea4975cd17221ab97 ""
-  "d:/Michael/desktop/Notes/Information_design/Notes_on_kamenica2019survey.tex" 1630807110 18608 1a89297da6c502b55a855dce86b3a7e1 ""
+  "d:/study/OneDrive/×ÀÃæ/Notes/Information_design/Notes_on_kamenica2019survey.tex" 1632052167 18737 704f86eb35b7455ad2c92312e809f826 ""
   (generated)
   "Notes_on_kamenica2019survey.pdf"
-  "Notes_on_kamenica2019survey.log"
-  "Notes_on_kamenica2019survey.aux"
   "Notes_on_kamenica2019survey.out"
+  "Notes_on_kamenica2019survey.aux"
+  "Notes_on_kamenica2019survey.log"

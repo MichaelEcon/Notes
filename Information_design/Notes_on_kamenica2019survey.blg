@@ -4,46 +4,47 @@ The top-level auxiliary file: Notes_on_kamenica2019survey.aux
 The style file: apalike.bst
 Database file #1: aguiar.bib
 Warning--I didn't find a database entry for "bergemann2016bayesb"
+Warning--empty journal in frechette2019rules
 Warning--there's a number but no volume in matyskova2018bayesian
-You've used 39 entries,
+You've used 42 entries,
             1935 wiz_defined-function locations,
-            702 strings with 8506 characters,
-and the built_in function-call counts, 15125 in all, are:
-= -- 1560
-> -- 458
-< -- 38
-+ -- 152
-- -- 142
-* -- 1257
-:= -- 2570
-add.period$ -- 118
-call.type$ -- 39
-change.case$ -- 265
-chr.to.int$ -- 39
-cite$ -- 40
-duplicate$ -- 588
-empty$ -- 1122
-format.name$ -- 219
-if$ -- 2985
+            714 strings with 8905 characters,
+and the built_in function-call counts, 16094 in all, are:
+= -- 1651
+> -- 507
+< -- 39
++ -- 168
+- -- 158
+* -- 1334
+:= -- 2755
+add.period$ -- 126
+call.type$ -- 42
+change.case$ -- 289
+chr.to.int$ -- 42
+cite$ -- 44
+duplicate$ -- 625
+empty$ -- 1180
+format.name$ -- 240
+if$ -- 3164
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 40
-newline$ -- 198
-num.names$ -- 117
-pop$ -- 182
+missing$ -- 42
+newline$ -- 212
+num.names$ -- 126
+pop$ -- 205
 preamble$ -- 1
-purify$ -- 266
+purify$ -- 289
 quote$ -- 0
-skip$ -- 478
+skip$ -- 507
 stack$ -- 0
-substring$ -- 1276
-swap$ -- 82
+substring$ -- 1312
+swap$ -- 83
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 232
-warning$ -- 1
-while$ -- 149
+type$ -- 250
+warning$ -- 2
+while$ -- 155
 width$ -- 0
-write$ -- 505
-(There were 2 warnings)
+write$ -- 540
+(There were 3 warnings)

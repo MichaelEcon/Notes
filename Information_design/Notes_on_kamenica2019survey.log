@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.7.24)  3 SEP 2021 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.7.24)  19 SEP 2021 19:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Michael/desktop/Notes/Information_design/Notes_on_kamenica2019survey.tex
-(d:/Michael/desktop/Notes/Information_design/Notes_on_kamenica2019survey.tex
+**d:/study/OneDrive/桌面/Notes/Information_design/Notes_on_kamenica2019survey.tex
+(d:/study/OneDrive/桌面/Notes/Information_design/Notes_on_kamenica2019survey.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-07-12> (c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
@@ -1164,27 +1164,27 @@ Overfull \hbox (17.17589pt too wide) in paragraph at lines 310--311
 [][] 
  []
 
-[9 <./concavification.png>] [10] [11] (./Notes_on_kamenica2019survey.bbl [12] [13] [14])
+[9 <./concavification.png>] [10] [11] (./Notes_on_kamenica2019survey.bbl [12] [13] [14] [15])
 
 Package natbib Warning: There were undefined citations.
 
-[15] (./Notes_on_kamenica2019survey.aux)
+[16] (./Notes_on_kamenica2019survey.aux)
 Package rerunfilecheck Info: File `Notes_on_kamenica2019survey.out' has not changed.
 (rerunfilecheck)             Checksum: D51A0DC725E0A2989B743CB982F165D6;1530.
  ) 
 Here is how much of TeX's memory you used:
- 30059 strings out of 478542
- 522070 string characters out of 5854402
- 859048 words of memory out of 5000000
- 46855 multiletter control sequences out of 15000+600000
- 521635 words of font info for 502 fonts, out of 8000000 for 9000
+ 30078 strings out of 478542
+ 522488 string characters out of 5854402
+ 859159 words of memory out of 5000000
+ 46865 multiletter control sequences out of 15000+600000
+ 521997 words of font info for 505 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,97p,781b,569s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,9n,97p,787b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpbit8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpbsy.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmia.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmite.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpsyb.pfb>
-Output written on Notes_on_kamenica2019survey.pdf (15 pages, 177312 bytes).
+Output written on Notes_on_kamenica2019survey.pdf (16 pages, 178416 bytes).
 PDF statistics:
- 405 PDF objects out of 1000 (max. 8388607)
- 358 compressed objects within 4 object streams
- 117 named destinations out of 1000 (max. 500000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
+ 122 named destinations out of 1000 (max. 500000)
  135258 words of extra memory for PDF output out of 154059 (max. 10000000)
 
