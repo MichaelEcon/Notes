@@ -1,0 +1,67 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[margin=1.5in]{geometry}
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb} 
+\usepackage[retainorgcmds]{IEEEtrantools}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{subfig}
+\usepackage{kpfonts}    % for nice fonts
+\usepackage{microtype} 
+\usepackage{booktabs}   % for nice tables
+\usepackage{bm}         % for bold math
+\usepackage{listings}   % for inserting code
+\usepackage{verbatim}   % useful for program listings
+\usepackage{color}  
+\usepackage{hyperref}   % use for hypertext
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{natbib}
+\setlength{\marginparwidth}{2cm}
+
+
+\begin{document}
+
+%+Title
+\title{\textbf{Notes on \citep{ortoleva2012modeling}}\\{\small \textbf{Modeling the change of paradigm: Non-Bayesian reactions to unexpected news}}}
+\author{Quan Li}
+\date{\today}
+\maketitle
+%-Title
+
+%+Abstract
+\begin{abstract}
+If we attach zero probability to an event because we believe it cannot happen in any way, if there is an evidence that show it had happened, we cannot use Bayesian method to updating our beliefs, so what should we use instead? Let's see how Ortoleva think about this issue \cite{ortoleva2012modeling}.
+\end{abstract}
+%-abstract
+
+
+\section{Bayes' rule}
+
+
+First, let us rethink about why we use the Bayesian method?
+
+It is induced by the definition of \emph{conditional probability}, see \cite{hogg2005introduction} \textit{section 1.4}.
+
+But the \emph{conditional probability} is defined on events which have positive probabilities, so we must realize that the response to the unexpected news \emph{is not an actual theoretical issue}.
+
+From this consideration, I'm doubt about the logic foundations behind the assumptions of \emph{uncommon support} \citep{galperti2015hide}, and more aggressive, the foundations behind the assumptions of \emph{heterogeneous priors} \citep{alonso2016bayesian}\footnote{There are some classical papers that have considered the origin of \emph{heterogeneous priors} have been included in the literature review.}.
+
+
+\section{section}
+
+\subsection{subsection}
+
+
+\section{section}
+
+\section{conclusion}
+         
+
+\bibliographystyle{apalike}
+\bibliography{aguiar}
+%remember to use \citep{} for citation
+
+
+\end{document}
