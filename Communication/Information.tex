@@ -1,0 +1,116 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[margin=1.5in]{geometry}
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb} 
+\usepackage[retainorgcmds]{IEEEtrantools}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{subfig}
+\usepackage{kpfonts}    % for nice fonts
+\usepackage{microtype} 
+\usepackage{booktabs}   % for nice tables
+\usepackage{bm}         % for bold math
+\usepackage{listings}   % for inserting code
+\usepackage{verbatim}   % useful for program listings
+\usepackage{color}  
+\usepackage[colorlinks=true]{hyperref}
+% use for hypertext
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{natbib}
+\usepackage{indentfirst}
+
+
+\begin{document}
+
+%+Title
+\title{\textbf{Information}\\{\small \textbf{}}}
+\author{Li Quan}
+\date{\today}
+\maketitle
+%-Title
+%+Abstract
+\begin{abstract}
+This is my lecture notes of the research of information.
+\end{abstract}
+%-Abstract
+
+
+\section*{Introduction}
+
+\section{Persuasion games}
+
+\subsection{A simple persuasion game}
+\subsubsection{Settings}
+\begin{itemize}
+	\item Quality of product  $ \theta \in \Theta = \{1,2,\dots,N\} $
+	\item Higher value of $ \theta $, high quality
+	
+	\item $q$ : the quantity that the buyer
+	purchases or the highest price that the buyer would agree to pay to acquire a unit
+\end{itemize}
+
+\subsubsection{Assumptions}
+
+\begin{enumerate}
+	\item The seller prefer higher $q$
+	\item $\frac{\partial^2 v}{\partial q \partial \theta} > 0 \Rightarrow \theta \upuparrows \rightarrow q \upuparrows $ \footnote{Though it is plausible in the first glance, but it is not such general how we imagine. Think about a example of light bulbs.}
+	\item The seller's report must be truthful. We assume the form is: "at least $ x $" \footnote{In the basic model, we assume that the seller’s report will be truthful—but it will not necessarily be complete or detailed. The theory allows the seller’s report about quality to take a quite general form, but we limit our attention to a simple form.}
+\end{enumerate}
+
+\subsubsection{Analysis}
+
+
+Let us consider the case where, even after the seller’s report, the buyer remains uncertain about the quality.
+
+Another implication of Assumption 2:
+\begin{itemize}
+	\item The belief is $[i, j] \Rightarrow$ the optimal decision $[q_i, q_j]$
+\end{itemize}
+
+\textit{This combination of assumptions justifies a thorough-going skepticism on the part of the buyer. If the seller chooses not to prove that the quality exceeds some threshold when the buyer knows that it could do so, then the buyer can react by being extremely cautious in deciding what to purchase, buying only the quantity corresponding to the minimum proven quality.}
+
+\subsubsection{Equilibirum}
+
+It consists of: 
+\begin{itemize}
+	\item $S^*(\theta)$: the seller's strategies when he knows his quality
+	\item $\pi^*_S$: probability distribution over possible qualities when the buyer hears the report $S$
+	\item $\pi^*_S \Rightarrow q^*(\pi^*_S)$
+	\end{itemize}
+
+and must satisfy the following conditions:
+\begin{itemize}
+	\item $S^*(\theta)$ must maximizes its net profit $q^*(S)$, s.t. $S$ is turthful
+	\item Given $\pi^*_S$, the buyer chooses $q$ to maximize its expected payoff 
+	\item Consider $S$ is truthful, forms $\pi^*_S$ by Bayesian rule whenever possible.
+\end{itemize}
+
+\[\Downarrow\]
+
+The perfect Bayesian equilibrium is
+\begin{enumerate}
+	\item The buyer is maximally skeptical: $\pi^*_S = m(S) \Rightarrow q^* = q_{m(S)}$
+	\item When the actual quality of the good is
+	$i$, several reports by the seller are
+	consistent with equilibrium, but all lead to the same outcome.\footnote{The seller’s equilibrium
+		report might specify that its quality is exactly i or that the product quality
+		is in some class for which the minimum possible quality is $i$.}
+\end{enumerate}
+
+Properties of the equilibrium: 
+\begin{itemize}
+	\item Unraveling result: the highest quality sellers always make reports of quality that distinguish their
+	products from all others, and then the remaining sellers face a similar game(\textbf{For this argument to work, it must be common knowledge that a seller can distinguish its product from lower-quality products and sellers must benefit by doing so})
+	\item  Efficient: the buyer purchases just as if fully informed
+\end{itemize}
+\section{section}
+
+\section{conclusion}
+         
+
+\bibliographystyle{apalike}
+\bibliography{aguiar}
+%remember to use \citep{} for citation
+\end{document}
