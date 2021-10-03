@@ -1,9 +1,10 @@
 \documentclass[12pt,letterpaper]{article}
-\usepackage[margin=1.5in]{geometry}
+\usepackage[margin=1.75in]{geometry}
 \usepackage[english]{babel}
 \usepackage[utf8x]{inputenc}
 \usepackage{amsmath}
 \usepackage{amssymb} 
+\usepackage{amsthm}
 \usepackage[retainorgcmds]{IEEEtrantools}
 \usepackage{graphicx}
 \usepackage{tabularx}
@@ -15,16 +16,26 @@
 \usepackage{listings}   % for inserting code
 \usepackage{verbatim}   % useful for program listings
 \usepackage{color}  
-\usepackage{hyperref}   % use for hypertext
+\usepackage[colorlinks=false]{hyperref}   % use for hypertext
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage{natbib}
-\setlength{\marginparwidth}{2cm}
+\usepackage{indentfirst}
+\usepackage{csquotes}
+\usepackage{hyperref}
+
+
+\theoremstyle{definition}   % the choice of the theorem block style
+\newtheorem*{remark}{Remark}    % the remark do not have number index
+
+
+
+\setlength {\marginparwidth }{2cm}    % I don't know what does it mean, I just add this line to avoid the annoying suggestion
 
 
 \begin{document}
 
 %+Title
-\title{\textbf{Notes on \citep{ortoleva2012modeling}}\\{\small \textbf{Modeling the change of paradigm: Non-Bayesian reactions to unexpected news}}}
+\title{\textbf{Notes on \cite{ortoleva2012modeling}}\\{\small \textbf{Modeling the change of paradigm: Non-Bayesian reactions to unexpected news}}}
 \author{Quan Li}
 \date{\today}
 \maketitle
@@ -32,13 +43,13 @@
 
 %+Abstract
 \begin{abstract}
-If we attach zero probability to an event because we believe it cannot happen in any way, if there is an evidence that show it had happened, we cannot use Bayesian methods to updating our beliefs, so what should we use instead? Let's see how Ortoleva think about this issue \cite{ortoleva2012modeling}.
+If we attach zero probability to an event because we believe it cannot happen in any way, if there is an evidence that show it had happened, we cannot use Bayesian methods to updating our beliefs, so what should we use instead? Let's see how Ortoleva think about this issue \citep{ortoleva2012modeling}.
 \end{abstract}
 %-abstract
 
 
-\section{Bayes' rule}
 
+\section{Bayes' rule}
 
 First, let us rethink about why we use the Bayesian methods?
 
@@ -51,20 +62,90 @@ From this consideration, I doubt the logic foundations behind the assumptions of
 It has two limitations (\emph{maybe only on the case of subjective probability}\footnote{??}):
 
 \begin{enumerate}
-    \item It contains no prescriptions on zero probability(\emph{subjective}) events or information.
+    \item It contains no prescriptions on zero probability (\emph{subjective}) events or information.
     \item There are psychology and behavioral evidence show that the existence of non-Bayesian reactions to “unexpected” news (small but positive probability event).
 \end{enumerate}
 
+
+
 \section{An Example}
 
+Consider the case of an investor who wants to forecast the future return of a certain stock:
+
+\begin{itemize}
+    \item The investor forms a \emph{subjective prior}\footnote{Since there is no objective known distribution about the likelihood of these returns.}
+    \item As she receives new information, she will update her beliefs
+\end{itemize}
+
+There may be three types of information and the investor responses in different ways:
+
+\begin{enumerate}
+    \item The information is about “business as usual” situations $\Rightarrow$ she will revise her beliefs following Bayes' rule
+    \item The information is unexpected (the event is assigned probability \emph{zero})\footnote{For example, the market enters a financial crisis} $\Rightarrow$ she cannot use Bayes' rule, she will somehow \emph{rationally} choose a new prior given the evidence
+    \item A possible but unlikely event happened \footnote{Which is assigned a positive but small probability} $\Rightarrow$ she may question her \emph{subjective} prior instead of updating her beliefs by Bayes' rule \footnote{For instance, the investor could have used an economic model to form her prior over stock returns, but if she saw that this model assigned a really small probability to the information that was later revealed, she might question its validity and look for an alternative one}
+\end{enumerate}
 
 
-\subsection{subsection}
+
+\section{Overview of the Results}
+
+The procedure behind the above example is like a \emph{Hypothesis Testing} process, but is it reasonable? If the answer is Yes, why is it reasonable? i.e. what is the logic behind it?
+
+\cite{ortoleva2012modeling} answered this question.
+
+\vspace{0.4cm}
+
+The procedure we described above can be formalized as follows:
+
+\subsubsection*{Hypothesis Testing}
 
 
-\section{section}
+The agent has a triple profile $(u, \rho, \epsilon)$
+\begin{itemize}
+    \item $u$: a utility function over consequences
+    \item $\rho$: a prior over priors\footnote{A belief over which belief she should use}
+    \item $\epsilon$: a threshold between $0$ and $1$
+\end{itemize}
 
-\section{conclusion}
+The agent react to the information by the following steps:
+
+\begin{enumerate}
+    \item Forms the prior $\pi$ according to $\rho$, that is, she chooses the prior which has \emph{maximum likelihood}
+    \item As new information $i$ revealed, the agent \emph{test her prior} to verify whether she used a correct one:
+    \begin{itemize}
+        \item If $\pi(i) > \epsilon$, the prior is not rejected, the agent simply updates it using Bayes' rule
+        \item If $\pi(i) \leq \epsilon$, then the prior is rejected, the agent goes back to $\rho$, and updates it by Bayes' rule using the new information, then chooses the new $\pi'$ according to \emph{the updating prior over priors}
+    \end{itemize}
+\end{enumerate}
+
+\vspace{0.4cm}
+
+A behavioral property:
+
+\subsubsection*{Dynamic Coherence}
+
+The following three facts contain the same information content for the agent: 
+
+\begin{itemize}
+    \item High unemployment
+    \item Weak housing market
+    \item Low inflation
+\end{itemize}
+
+So each of them leads her the same beliefs.
+
+
+\subsubsection*{Equivalence}
+
+\begin{center}
+    Dynamic Coherence $+$ Other standard postulates 
+    \[\Updownarrow\]
+    Hypothesis Testing procedure
+\end{center}
+
+
+\section{}
+
          
 
 \bibliographystyle{apalike}
